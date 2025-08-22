@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-Hello! I'm **Thanhloan Tran** — a rising junior at Princeton University majoring in Civil Engineering and minoring in Statistics and Machine Learning. 
+Hello! I'm **Thanhloan Tran**, a rising junior at Princeton University majoring in Civil Engineering and minoring in Statistics and Machine Learning. 
 I enjoy data analysis and storytelling, communicating meaningful insights to drive business decisions. With an engineering background, I’m drawn to the problem-solving aspect of breaking down complex challenges into clear solutions. 
 
 **What I do**
