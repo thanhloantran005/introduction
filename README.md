@@ -1,11 +1,7 @@
 # 👋 Introducing Myself
 
-<p align="center">
-  <img src="banner.png" alt="cover" width="100%" />
-</p>
-
-Hello! I'm **Thanhloan Tran** — Data & Analytics student (Princeton CE + SML) focused on SQL, dashboards, and experiment-driven insights.  
-I like turning messy data into clear, decision-ready stories.
+Hello! I'm **Thanhloan Tran** — a rising junior at Princeton University majoring in Civil Engineering and minoring in Statistics and Machine Learning. 
+I enjoy data analysis and storytelling, communicating meaningful insights to drive business decisions. With an engineering background, I’m drawn to the problem-solving aspect of breaking down complex challenges into clear solutions. 
 
 **What I do**
 - Querying & modeling data with **SQL**
@@ -14,7 +10,12 @@ I like turning messy data into clear, decision-ready stories.
 - Python for analysis & visualization
 
 ## 🛠️ Tools
-**Languages:** SQL, Python  
-**Databases:** MySQL, PostgreSQL, BigQuery  
-**Viz:** Tableau, Looker Studio  
-**Other:** Excel/Sheets, DOMO basics
+**Languages:** Excel, SQL, Python, Power Query  
+**Viz:** Tableau, Looker Studio, DOMO
+
+## 🧩 Projects
+Welcome to my portfolio where I showcase my data analysis projects and strategic thinking!
+
+
+
+
