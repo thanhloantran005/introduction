@@ -14,7 +14,7 @@ I enjoy data analysis and storytelling, communicating meaningful insights to dri
 **Viz:** Tableau, Looker Studio, DOMO
 
 ## 🧩 Projects
-Welcome to my [portfolio] (https://github.com/thanhloantran005/Portfolio/blob/main/README.md) where I showcase my data analysis projects and strategic thinking!
+Welcome to my [portfolio](https://github.com/thanhloantran005/Portfolio/blob/main/README.md) where I showcase my data analysis projects and strategic thinking!
 
 
 
