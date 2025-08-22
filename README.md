@@ -6,7 +6,7 @@ I enjoy data analysis, storytelling, and communicating meaningful insights to dr
 **What I do**
 - Querying & modeling data with **SQL**
 - Building ad-hoc analyses and automated reports
-- Dashboards in **Tableau / Looker Studio**
+- Dashboards in **Tableau, Looker Studio**
 - Python for analysis & visualization
 
 ## 🛠️ Tools
